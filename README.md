@@ -50,4 +50,4 @@ By analyzing this dataset, we aim to gain insights into the key drivers of loan 
 - Based on this tutorial https://www.kaggle.com/code/ab9bhatia/complete-eda-for-loan-analysis
 
 ## Contacts
-Created by Syed Abdul Rahim [@sarpsl] & Leena - feel free to contact us!
+Created by Syed Abdul Rahim [@sarpsl] & Leena[@leenaorpe] - feel free to contact us!
